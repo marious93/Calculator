@@ -4,7 +4,7 @@ public class StateX extends State {
     boolean type = false;
     @Override
     void clear(Context context) {
-        context.x = 0;
+        context.x = 0;//x number
         context.y = 0;
         context.o = '+';
     }
