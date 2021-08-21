@@ -1,1 +1,1 @@
-Test calculator project based on Stat patter
+Test calculator project based on State patter
